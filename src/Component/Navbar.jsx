@@ -7,7 +7,7 @@ class Navbar extends Component {
     render() {
         return (
             <>
-                <AppBar position="fixed">
+                <AppBar position="fixed" className="navbar_wraper">
                     <Toolbar>  
                         <SportsCricketIcon className="circketIcon"/>           
                         <Typography variant="h5" mb={3}>Cricket Live Score</Typography>

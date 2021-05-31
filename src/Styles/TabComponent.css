@@ -1,0 +1,10 @@
+.tabComponent_wraper{
+    margin-top: 65px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid red;
+
+}

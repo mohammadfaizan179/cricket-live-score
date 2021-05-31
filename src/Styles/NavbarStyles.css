@@ -1,3 +1,8 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 .circketIcon{
     color: rgba(0,0,0, 0.7);
     margin-right: 12px;
