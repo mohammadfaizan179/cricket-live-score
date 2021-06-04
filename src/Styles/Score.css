@@ -1,5 +1,5 @@
 .score_wraper{
-    border: 2px solid orange;
+    /* border: 2px solid orange; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -13,17 +13,17 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    border: 2px solid green;
+    /* border: 2px solid green; */
     width: 90%;
 }
 .card_wraper{
     margin-top: 40px;
-    border: 2px solid brown;
+    /* border: 2px solid brown; */
     width: 60%;
 }
 .card_content{
     min-width: 600px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: flex;
     flex-direction: row;
     justify-content: center;
